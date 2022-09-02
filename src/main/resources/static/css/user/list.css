@@ -1,0 +1,14 @@
+.header {
+  padding-top: 1rem!important;
+  padding-bottom: .5rem!important;
+  margin-bottom: 1rem!important;
+}
+.bottom_space {
+  text-align: center;
+  padding-top: 1rem!important;
+  padding-bottom: .5rem!important;
+  margin-bottom: 1rem!important;
+}
+.th-width {
+  width: 400px;
+}
